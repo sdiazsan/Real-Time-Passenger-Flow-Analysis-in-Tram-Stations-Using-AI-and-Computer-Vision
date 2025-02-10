@@ -1,0 +1,83 @@
+Comparación de Modelos YOLO (v3, v5, v8)
+==================================================
+
+Modelo: YOLOv8n
+Tiempo Inferencia: 1.1258
+Detecciones por Frame: 6.1333
+Precisión del Tracker: 1.0000
+Precisión: 0.1000
+Recall: 0.5000
+F1 Score: 0.1667
+==================================================
+
+Modelo: YOLOv8s
+Tiempo Inferencia: 2.5479
+Detecciones por Frame: 8.0667
+Precisión del Tracker: 1.0000
+Precisión: 0.1000
+Recall: 0.5000
+F1 Score: 0.1667
+==================================================
+
+Modelo: YOLOv8m
+Tiempo Inferencia: 6.3176
+Detecciones por Frame: 8.2667
+Precisión del Tracker: 1.0000
+Precisión: 0.1167
+Recall: 0.5000
+F1 Score: 0.1892
+==================================================
+
+Modelo: YOLOv8l
+Tiempo Inferencia: 13.0996
+Detecciones por Frame: 8.7333
+Precisión del Tracker: 1.0000
+Precisión: 0.1167
+Recall: 0.5000
+F1 Score: 0.1892
+==================================================
+
+Modelo: YOLOv5n
+Tiempo Inferencia: 0.8952
+Detecciones por Frame: 6.8333
+Precisión del Tracker: 1.0000
+Precisión: 0.1000
+Recall: 0.5000
+F1 Score: 0.1667
+==================================================
+
+Modelo: YOLOv5s
+Tiempo Inferencia: 2.1563
+Detecciones por Frame: 7.9667
+Precisión del Tracker: 1.0000
+Precisión: 0.1167
+Recall: 0.5000
+F1 Score: 0.1892
+==================================================
+
+Modelo: YOLOv5m
+Tiempo Inferencia: 5.3422
+Detecciones por Frame: 7.3667
+Precisión del Tracker: 1.0000
+Precisión: 0.1000
+Recall: 0.5000
+F1 Score: 0.1667
+==================================================
+
+Modelo: YOLOv5l
+Tiempo Inferencia: 11.1645
+Detecciones por Frame: 9.0000
+Precisión del Tracker: 1.0000
+Precisión: 0.1000
+Recall: 0.5000
+F1 Score: 0.1667
+==================================================
+
+Modelo: YOLOv3
+Tiempo Inferencia: 22.6693
+Detecciones por Frame: 7.2333
+Precisión del Tracker: 1.0000
+Precisión: 0.1000
+Recall: 0.5000
+F1 Score: 0.1667
+==================================================
