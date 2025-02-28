@@ -6,7 +6,7 @@ from ultralytics import YOLO
 from tracker_resultados import Tracker
 
 # Load the YOLOv8 model
-model = YOLO('yolov8n.pt')
+model = YOLO('yolov5s.pt')
 
 # Define the area of interest with external and internal lines (long sides of the rectangle)
 left_line_x = 325  # Línea roja (izq)
